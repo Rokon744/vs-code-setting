@@ -1,0 +1,18 @@
+Live Server
+Auto Rename tag
+Es7 + React
+Material Icon
+Prettier formatter
+Tailwind Intellisense
+Html end tag labels
+Codesnap
+Better comments
+Path Intellisense
+CSS peek
+
+
+
+
+Exttra::
+1. Excalidraw
+2. Hungry Delete
