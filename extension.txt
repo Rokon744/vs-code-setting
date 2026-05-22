@@ -10,7 +10,12 @@ Better comments
 Path Intellisense
 CSS peek
 
-
+----- For PHP and Laravel
+1. PHP
+2. Laravel Blade snippets
+3. Laravel goto view
+4. Laravel Extra Intellisense
+5. Laravel Blade formatter
 
 
 Exttra::
